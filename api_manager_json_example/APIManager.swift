@@ -50,8 +50,7 @@ static let getPostsEndpoint = "search_by_date?query=ios"
            
         }, onFailure: { error in
             onFailure(error)
-            /*
-            */
+            
         })
     }
 }
